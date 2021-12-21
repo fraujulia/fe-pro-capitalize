@@ -7,7 +7,5 @@ function capitalize(string) {
   });
   return newStr.join(" ");
 }
-let result = capitalize(string);
-console.log(result);
 
 module.exports = capitalize;
