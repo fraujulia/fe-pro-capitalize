@@ -1,4 +1,3 @@
-const string = "test test test";
 function capitalize(string) {
   str = string.split(" ");
   console.log(str);
